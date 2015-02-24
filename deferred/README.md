@@ -1,6 +1,6 @@
 Deferred Shading in OpenGL
 
-![Alt text](/deferred/pics/final.bmp)
+![Alt text](/deferred/pics/final.png)
 ![Alt text](/deferred/pics/overall.bmp)
 ![Alt text](/deferred/pics/final_project.bmp)
 ![Alt text](/deferred/pics/depth_darkening2.bmp)
